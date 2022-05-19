@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="30sp"
+    android:layout_height="match_parent"
+    tools:context=".profile_data.Edit_post_profile">
+
+    <EditText
+        android:id="@+id/edit_old_post"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:background="@drawable/etext_color"
+        android:text="Post Text"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:id="@+id/old_post_pic"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/fitness_logo"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:padding="7dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/edit_old_post_save"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/post_press_state"
+            android:layout_height="wrap_content"
+            android:text="Save"/>
+        <Button
+            android:id="@+id/edit_old_post_delete"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/post_press_state"
+            android:layout_height="wrap_content"
+            android:text="Delete"/>
+
+    </LinearLayout>
+</LinearLayout>

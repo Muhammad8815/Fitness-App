@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/blackeye.xml" value="0.1945" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/blank_profile.xml" value="0.133" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/blue.xml" value="0.133" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/btn_color.xml" value="0.1945" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/btn_color_red.xml" value="0.1075" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/btn_color_white.xml" value="0.2115" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/etext_color.xml" value="0.155" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/fire_logo.xml" value="0.1" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/fitness_theme.xml" value="0.1945" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/follow_btn_color.xml" value="0.127" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/home_ic.xml" value="0.1" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/home_menu_theme.xml" value="0.2115" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/ic_baseline_camera.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/live_messages.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/live_msg_two.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/login_btn_press_state.xml" value="0.1945" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/post_press_state.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/post_red.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/post_shape.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/profile_image_post2.xml" value="0.133" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/profile_post.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/rectangle_background.xml" value="0.1615" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/rectangle_press.xml" value="0.127" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/searched_press_state.xml" value="0.127" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/soinner_background.xml" value="0.1" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/splashdesign.xml" value="0.1945" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/tab_press.xml" value="0.133" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/drawable/tab_pressed.xml" value="0.133" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout-v28/activity_add_age.xml" value="0.1" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_account_status_check.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_add_age.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_edit_post_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_exercise_thumbnail.xml" value="0.5" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_gif_name_time.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_home.xml" value="0.25710754017305315" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_image_clicked.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_login_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_menu_home_page.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_posts_only.xml" value="0.1" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_search_accounts.xml" value="0.22" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_select_galtter_camera_img.xml" value="0.5" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_signup_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/activity_workout_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/all_exercises.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/cam_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/chat_messages.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/choose_galler_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/cover_clicked.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/delete.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/delete_d.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/edit_post.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/endurance_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/exercise.xml" value="0.22" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/follower_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/followers_class.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/fragment__profile.xml" value="0.17547000895255147" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/fragment_messages_.xml" value="0.21" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/fragment_notification_.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/fragment_time_line_.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/fragment_workout_.xml" value="0.18" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/gallery.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/gallery_cam_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/list_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/list_profilee.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/list_timeline.xml" value="0.25" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/photos_class.xml" value="0.33" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/photos_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/profile_clicked.xml" value="0.22" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/profile_rowlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/search_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/searched_profile.xml" value="0.18" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/set_edit_picture.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/timeline_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/workout_aerobic_list.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/layout/workout_endurance.xml" value="0.67" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/menu/searchmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.105" />
+        <entry key="..\:/Users/Muhammad/Desktop/Android_Studio_projects/FitnessApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.67" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

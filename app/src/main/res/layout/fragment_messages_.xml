@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#F1EDED"
+    tools:context=".menu_fragments.Messages_Fragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:layout_weight="0.8"
+        android:layout_gravity="center"
+        android:text="Live Chat"
+        android:textSize="30sp"
+        android:background="@color/white"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_blue_light"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/LiveMessagesRecyclerView"
+        android:layout_width="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:layout_height="0dp"
+        android:layout_weight="9"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.6"
+        android:padding="11dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/LiveMessage"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="9"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/profile_post"
+            android:hint="Message"
+            android:padding="8dp"
+            android:layout_marginRight="10dp" />
+        <Button
+            android:id="@+id/livemessagesend"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:text="Send"
+            android:textColor="@color/white"
+            android:background="@drawable/login_btn_press_state"/>
+    </LinearLayout>
+</LinearLayout>

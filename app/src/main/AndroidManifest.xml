@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="workout.fitnessapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FitnessApp">
+        <activity
+            android:name=".ALL_Exercises"
+            android:exported="false" />
+        <activity
+            android:name=".Follower_Account"
+            android:exported="false" />
+        <activity
+            android:name=".Followers_Class"
+            android:exported="false" />
+        <activity
+            android:name=".Searched_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Photos_Class"
+            android:exported="false" />
+        <activity
+            android:name=".Photos_Profile"
+            android:exported="false" /> <!-- android:launchMode = "singleTop" -->
+        <activity
+            android:name=".Profile_clicked"
+            android:exported="false" />
+        <activity
+            android:name=".Cover_Clicked"
+            android:exported="false" />
+        <activity
+            android:name=".Search_Accounts"
+            android:exported="false" />
+        <activity
+            android:name=".Gif_Name_Time"
+            android:exported="false" />
+        <activity
+            android:name=".Exercise_thumbnail"
+            android:exported="false" />
+        <activity
+            android:name=".workout.Workout_start"
+            android:exported="false" />
+        <activity
+            android:name=".profile_data.Edit_post_profile"
+            android:exported="false" />
+        <activity
+            android:name=".profile_data.Image_Clicked"
+            android:exported="false" />
+        <activity
+            android:name=".profile_data.Posts_Only"
+            android:exported="false" />
+        <activity
+            android:name=".registration.Account_Status_Check"
+            android:exported="false" />
+        <activity
+            android:name=".registration.Add_Age"
+            android:exported="false" />
+        <activity
+            android:name=".menu_fragments.Menu_Home_page"
+            android:exported="false" />
+        <activity
+            android:name=".registration.Home"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

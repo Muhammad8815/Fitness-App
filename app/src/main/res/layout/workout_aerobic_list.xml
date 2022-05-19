@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:clickable="true"
+    android:background="@drawable/tab_pressed"
+    android:layout_height="wrap_content"
+    tools:ignore="UseCompoundDrawables"
+    android:focusable="true">
+    <ImageView
+        android:id="@+id/aer_workout_img"
+        android:layout_width="330dp"
+        android:layout_height="300sp"
+        android:src="@drawable/fitness_logo"
+        android:contentDescription="TODO"
+        tools:ignore="ContentDescription" />
+    <TextView
+        android:id="@+id/aer_workout_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#039BE5"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textSize="20sp"
+        android:text="Exercise Name"
+        android:textColor="@color/white"
+        android:layout_marginBottom="7dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#B7B5B3B3"
+        android:layout_height="5dp"/>
+
+</LinearLayout>

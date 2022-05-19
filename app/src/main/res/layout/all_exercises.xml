@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ALL_Exercises">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/exe_name"
+            android:layout_gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Six Pack"/>
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:id="@+id/exe_gif"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:src="@drawable/fitness_logo"
+            />
+        <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/thatmuchtimes"
+            android:layout_gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="60 s"/>
+        <Button
+            android:id="@+id/ddone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Done"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/post_press_state"/>
+
+    </LinearLayout>
+</LinearLayout>

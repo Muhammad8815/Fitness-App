@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/white"
+    android:layout_width="wrap_content"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/setprofile"
+        android:layout_width="100dp"
+        android:padding="6dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/post_press_state"
+        android:text="Set Profile"/>
+    <Button
+        android:id="@+id/setcover"
+        android:layout_width="100dp"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/post_press_state"
+        android:text="set cover"/>
+    <Button
+        android:id="@+id/picshare"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@drawable/post_press_state"
+        android:text="Share"/>
+    <Button
+        android:id="@+id/ddeleted"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:padding="6dp"
+        android:background="@drawable/post_press_state"
+        android:text="Delete"/>
+
+</LinearLayout>
